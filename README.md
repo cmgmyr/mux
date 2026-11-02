@@ -57,7 +57,7 @@ Devices are matched by name, so presets survive USB reconnections that change de
 
 A [Raycast](https://raycast.com/) extension lives in [`raycast/`](raycast/) — pick and apply presets with fuzzy search, without opening a terminal. It reads the same `~/.config/mux/config.json`, so presets you create with the CLI show up automatically.
 
-See [`raycast/README.md`](raycast/README.md) for setup.
+It also runs in [Tinycast](https://github.com/mrasong/tinycast). See [`raycast/README.md`](raycast/README.md) for setup in either launcher.
 
 ## License
 
